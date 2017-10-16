@@ -12,6 +12,7 @@
 		4BEE76C31F94E0300063E115 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BEE76C11F94E0300063E115 /* Main.storyboard */; };
 		4BEE76C51F94E0300063E115 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BEE76C41F94E0300063E115 /* Assets.xcassets */; };
 		4BEE76C81F94E0300063E115 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BEE76C61F94E0300063E115 /* LaunchScreen.storyboard */; };
+		4BEE76D11F94E7920063E115 /* Ant-architects-1024x658.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4BEE76D01F94E78F0063E115 /* Ant-architects-1024x658.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4BEE76C41F94E0300063E115 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4BEE76C71F94E0300063E115 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4BEE76C91F94E0300063E115 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4BEE76D01F94E78F0063E115 /* Ant-architects-1024x658.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ant-architects-1024x658.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		4BEE76BC1F94E0300063E115 /* testgit */ = {
 			isa = PBXGroup;
 			children = (
+				4BEE76CF1F94E73A0063E115 /* Ressources */,
 				4BEE76BD1F94E0300063E115 /* AppDelegate.swift */,
 				4BEE76BF1F94E0300063E115 /* ViewController.swift */,
 				4BEE76C11F94E0300063E115 /* Main.storyboard */,
@@ -62,6 +65,14 @@
 				4BEE76C91F94E0300063E115 /* Info.plist */,
 			);
 			path = testgit;
+			sourceTree = "<group>";
+		};
+		4BEE76CF1F94E73A0063E115 /* Ressources */ = {
+			isa = PBXGroup;
+			children = (
+				4BEE76D01F94E78F0063E115 /* Ant-architects-1024x658.jpg */,
+			);
+			path = Ressources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +137,7 @@
 				4BEE76C81F94E0300063E115 /* LaunchScreen.storyboard in Resources */,
 				4BEE76C51F94E0300063E115 /* Assets.xcassets in Resources */,
 				4BEE76C31F94E0300063E115 /* Main.storyboard in Resources */,
+				4BEE76D11F94E7920063E115 /* Ant-architects-1024x658.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
